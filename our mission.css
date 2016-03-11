@@ -60,6 +60,7 @@ p.miss{
 	text-align: center;
 	width: 800px;
 	height: auto;
+	border-style:inset;
 }
 /*vision statement*/
 h1.vision{
@@ -73,6 +74,7 @@ p.vision{
 	text-align: center;
 	width: 800px;
 	height: auto;
+	border-style:inset;
 }
 /*links*/
 a.link1{
